@@ -1,2 +1,2 @@
-# resto_order_app
-App to manage order for restaurant
+# budgeting_app
+App to plan budget for personal
