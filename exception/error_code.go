@@ -1,0 +1,9 @@
+package exception
+
+const (
+	INTERNAL_SERVER_ERROR = 500
+	BAD_REQUEST_ERROR     = 2006
+	NOT_FOUND_ERROR       = 404
+	NOT_ALLOWED_ERROR     = 405
+	FORBIDDEN_ERROR       = 403
+)
